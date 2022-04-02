@@ -48,5 +48,6 @@
 
   console.log(getValue(obj1, 'name'));
   console.log(getValue(obj1, 'age'));
+  console.log(getValue(obj1, 'age'));
 
 }
